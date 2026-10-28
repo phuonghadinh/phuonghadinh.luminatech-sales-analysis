@@ -65,4 +65,4 @@ Python (pandas, NumPy) · SciPy · statsmodels · scikit-learn · Matplotlib · 
 - The NZD business has no customer codes and is excluded from the churn analysis.
 
 ## 👤 Author
-**Paige (Ha Phuong Dinh)** · [LinkedIn](https://www.linkedin.com/in/your-profile)
+**Paige (Ha Phuong Dinh)** · [LinkedIn](https://www.linkedin.com/in/phuonghadinh/)
